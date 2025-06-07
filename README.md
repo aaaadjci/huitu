@@ -1,8 +1,3 @@
-# huitu
-绘制流程图
-# 系统架构图
-
-```mermaid
 graph TB
     UI[用户界面层(UI)<br>控制按钮、图形展示]
     Controller[控制逻辑模块(Controller)]
